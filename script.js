@@ -4,20 +4,17 @@ const quizQuestions = [
   {
     question: "What is the capital of France?",
     options: ["Paris", "London", "Berlin", "Rome"],
-    correctAnswer: "Paris",
-    difficulty: "Easy" // Độ khó của câu hỏi
+    correctAnswer: "Paris"
   },
   {
     question: "Which planet is known as the Red Planet?",
     options: ["Venus", "Mars", "Jupiter", "Saturn"],
-    correctAnswer: "Mars",
-    difficulty: "Medium" // Độ khó của câu hỏi
+    correctAnswer: "Mars"
   },
   {
     question: "What is the chemical symbol for gold?",
     options: ["Au", "Ag", "Cu", "Fe"],
-    correctAnswer: "Au",
-    difficulty: "Hard" // Độ khó của câu hỏi
+    correctAnswer: "Au"
   }
 ];
 
