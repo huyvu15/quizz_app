@@ -106,12 +106,11 @@ const quizSets = [
   ],
   [
     {
-      question: "Câu hỏi 1 bài 2",
+      question: "Tuần 3",
       options: ["Đáp án 1", "Đáp án 2", "Đáp án 3", "Đáp án 4"],
       correctAnswer: "Đáp án 2",
     },
-    // Thêm các câu hỏi khác của bài 2
-    // ...
+
   ],
   // Thêm các bài test khác
   // ...
