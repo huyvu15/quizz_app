@@ -1,0 +1,45 @@
+<!--codewithcurious.com-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz App</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  <meta charshet="utf-8" />
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Thêm các nút bên trái -->
+<div id="quiz-selection">
+  <button onclick="startQuiz(0)">Tuần 2</button>
+  <button onclick="startQuiz(1)">Quiz 2</button>
+  <button onclick="startQuiz(2)">Quiz 3</button>
+  <button onclick="startQuiz(3)">Quiz 4</button>
+  <button onclick="startQuiz(4)">Quiz 5</button>
+</div>
+
+
+
+  <div class="quiz-container">
+    <h1>Quiz App</h1>
+    <div id="question-container">
+      <p id="question-text"></p>
+      <div id="answer-buttons"></div>
+    </div>
+    <div id="controls-container">
+      <button id="start-button">Start Quiz</button>
+      <div id="timer-container">
+        <span id="timer-text">Time Left: <span id="timer">0</span></span>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+
+</body>
+</html>

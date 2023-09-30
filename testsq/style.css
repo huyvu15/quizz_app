@@ -85,4 +85,15 @@ body {
     object-fit: cover;
   }
   
-  
+/* CSS cho các nút chọn bài quiz */
+#quiz-selection {
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  display: flex;
+  flex-direction: column; /* Sắp xếp theo chiều dọc */
+}
+
+#quiz-selection button {
+  margin-bottom: 10px; /* Khoảng cách giữa các nút */
+}

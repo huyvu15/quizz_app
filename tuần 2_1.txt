@@ -1,0 +1,80 @@
+Dữ liệu thứ cấp là loại dữ liệu
+Select one:
+a. chưa được tập hợp dưới một khuôn mẫu nào đó.
+b. đã được thu thập và đã lỗi thời.
+c. mà nhà nghiên cứu có thể có được thông qua điều tra hoặc quan sát.
+d. đã được thu thập và thường để sử dụng cho mục đích khác. 
+--> đáp án: d
+
+Một cách đặt câu hỏi nghiên cứu thị trường trong đó thay vì hỏi, người nghiên cứu đưa ra các phát biểu khẳng định hoặc phủ định và yêu cầu người trả lời phải thể hiện mức độ đồng ý với các phát biểu đó. Thang điểm thường từ 1 đến 5 trong đó 1 là hoàn toàn phản đối, 5 là hoàn toàn đồng ý. Đây là kiểu thang đo gì?
+Select one:
+a. Thang nhiều lựa chọn.
+b. Thang có tổng không đổi.
+c. Thang Likert. 
+d. Thang tỷ lệ.
+--> đáp án: c
+
+Câu hỏi nghiên cứu nào dưới đây luôn đòi hỏi phải thực hiện nghiên cứu định lượng?
+Select one:
+a. Khách hàng biết tới những thương hiệu máy tính xách tay nào?
+b. Có bao nhiêu phần trăm người tiêu dùng Việt Nam cho rằng xuất xứ của sản phẩm thể hiện chất lượng sản phẩm? 
+c. Khách hàng tìm kiếm những thông tin gì khi lựa chọn máy tính xách tay?
+d. Tại sao nước xuất xứ của sản phẩm có ảnh hưởng tới quyết định mua hàng của người tiêu dùng?
+--> đáp án: b
+
+Hệ thống giúp thu thập những thông tin mang tính sự kiện về môi trường bên ngoài, được gọi là gì?
+
+Select one:
+a. Internal Records System
+b. Marketing Research System
+c. Marketing Decision Support System
+d. Marketing Intelligence System 
+--> đáp án: d
+
+Một siêu thị lắp đặt camera để kiểm soát an ninh, đồng thời cũng để nghiên cứu hành vi mua sắm của khách hàng trong siêu thị, từ đó điều chỉnh về cách bố trí hàng hóa trên giá kệ bày hàng. Trong nghiên cứu thị trường, đây là phương pháp …
+Select one:
+a. nghiên cứu định tính.
+b. quan sát. 
+c. phỏng vấn sâu.
+d. nghiên cứu thực nghiệm.
+--> đáp án:b
+
+Bước đầu tiên trong tiến trình nghiên cứu thị trường là
+Select one:
+a. lập kế hoạch nghiên cứu.
+b. xác định đối tượng phỏng vấn.
+c. thiết kế bản câu hỏi.
+d. xác định mục tiêu nghiên cứu. 
+--> đáp án: d
+
+Phần đầu của phiếu khảo sát trong một nghiên cứu thị trường thường có nội dung gì?
+Select one:
+a. Nghiên cứu này phục vụ mục đích gì
+b. Người nghiên cứu là ai
+c. Cam kết rằng những trả lời của người được phỏng vấn sẽ được giữ bí mật
+d. Tất cả các trả lời đều đúng 
+--> đáp án: d
+
+Để thực hiện nghiên cứu thị trường bột giặt, nhà nghiên cứu đã lựa chọn các hộ gia đình theo cách rút thăm ngẫu nhiên từ danh sách các địa chỉ có trước. Phương pháp chọn mẫu ở đây là
+Select one:
+a. chọn mẫu theo cụm
+b. chọn mẫu ngẫu nhiên đơn giản 
+c. chọn mẫu phân tầng
+d. chọn mẫu ngẫu nhiên hệ thống
+--> đáp án: b
+
+Câu hỏi nghiên cứu nào dưới đây luôn đòi hỏi phải thực hiện nghiên cứu định lượng?
+Select one:
+a. Có bao nhiêu phần trăm người tiêu dùng Việt Nam cho rằng xuất xứ của sản phẩm thể hiện chất lượng sản phẩm? 
+b. Khách hàng tìm kiếm những thông tin gì khi lựa chọn máy tính xách tay?
+c. Tại sao nước xuất xứ của sản phẩm có ảnh hưởng tới quyết định mua hàng của người tiêu dùng?
+d. Khách hàng biết tới những thương hiệu máy tính xách tay nào?
+--> đáp án: a
+
+Trong một bản câu hỏi, bạn yêu cầu người trả lời cho điểm theo 4 yếu tố ảnh hưởng tới quyết định mua hàng qua trang thương mại điện tử (chất lượng sản phẩm, dịch vụ giao hàng, giá cả, uy tín của website). Trong đó điểm càng cao thể hiện tầm quan trọng càng lớn, nhưng tổng điểm phải bằng 100. Loại dữ liệu thu được sẽ là
+Select one:
+a. dữ liệu tỷ lệ. 
+b. dữ liệu khoảng.
+c. dữ liệu định danh.
+d. dữ liệu phân hạng.
+--> đáp án:a
