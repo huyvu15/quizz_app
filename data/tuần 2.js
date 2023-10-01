@@ -101,8 +101,5 @@ const quizQuestions = [
 }
 
 
-
-
-
-
 ];
+
