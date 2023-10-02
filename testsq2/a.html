@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A+ Nguyên lý Marketing</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  <meta charset="utf-8">
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<div id="quiz-selection">
+  <button onclick="startQuiz(0)">Tuần 1</button>
+  <button onclick="startQuiz(1)">Tuần 2</button>
+  <!-- Add more quiz buttons as needed -->
+</div>
+
+<div class="quiz-container">
+  <h1>A+ Nguyên lý Marketing</h1>
+  <div id="question-container">
+    <p id="question-text"></p>
+    <div id="answer-buttons"></div>
+  </div>
+  <div id="controls-container">
+    <button id="start-button">Start Quiz</button>
+    <button id="next-quiz-button" style="display: none;">Next Quiz</button>
+    <div id="timer-container">
+      <span id="timer-text">Time Left: <span id="timer">0</span></span>
+    </div>
+  </div>
+</div>
+
+<div class="vu-huy">Vũ Huy</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,123 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .quiz-container {
+    max-width: 800px; /* Tăng kích thước hộp chứa */
+    padding: 20px;
+    /* Sửa lại hiệu ứng border-radius, background và box-shadow */
+    border-radius: 35px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow:  
+        31px 31px 44px #7b7b7b,
+        -31px -31px 44px #ffffff;
+}
+  
+  h1 {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  #question-container {
+    margin-bottom: 20px;
+  }
+  
+  #question-text {
+    font-size: 20px; /* Tăng kích thước font cho câu hỏi */
+    margin-bottom: 15px; /* Tăng khoảng cách dưới câu hỏi */
+}
+  
+  #answer-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+  
+  button {
+    height: 70px;
+    font-size: 16px;
+    background-color: #3498db; /* Màu nền */
+    color: #fff; /* Màu chữ */
+    border: 2px solid #2980b9; /* Viền nút */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s; /* Hiệu ứng hover */
+}
+
+    .button:hover {
+        transform: scale(1.05);
+        background: linear-gradient(145deg, #f0f0f0, #cacaca);
+        color: #3498db;
+    }
+
+  
+  #controls-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #timer-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #timer-text {
+    font-size: 14px;
+  }
+  
+  #timer {
+    font-weight: bold;
+    margin-left: 5px;
+  }
+
+  video {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+/* CSS cho các nút chọn bài quiz */
+#quiz-selection {
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  display: flex;
+  flex-direction: column; /* Sắp xếp theo chiều dọc */
+}
+
+#quiz-selection button {
+  margin-bottom: 10px; /* Khoảng cách giữa các nút */
+}
+
+
+.vu-huy1 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(238, 88, 43);
+}
+
+.vu-huy {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 24px;
+  color: #2c2c2c;
+  /* background-color: #d5d5d5; */
+  letter-spacing: .05em;
+  text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+  height: 50px;
+  /* padding-top: 40px; */
+}

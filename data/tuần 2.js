@@ -243,7 +243,76 @@ const quizQuestions = [
   "tự nhiên."
   ],
   correctAnswer: "văn hóa - xã hội."
+  },
+  {
+    question: "Khái niệm 'customer demand' không liên quan đến nội dung nào dưới đây?",
+    options: [
+      "a. ước muốn về một loại sản phẩm cụ thể",
+      "b. sự sẵn lòng chi tiêu của người mua",
+      "c. khả năng tài chính của người mua",
+      "d. tất cả các trả lời đều sai."
+    ],
+    correctAnswer: "d. tất cả các trả lời đều sai."
+  },
+  {
+    question: "Loại hình nghiên cứu trong đó bản câu hỏi được thiết kế với đa số câu hỏi là câu hỏi mở là",
+    options: [
+      "a. nghiên cứu thống kê mô tả.",
+      "b. thống kê suy diễn.",
+      "c. nghiên cứu định tính.",
+      "d. nghiên cứu định lượng."
+    ],
+    correctAnswer: "c. nghiên cứu định tính."
+  },
+
+  {
+    question: "Phương pháp thu thập dữ liệu nào sau đây có thể thu thập được nhanh hơn và ít tốn kém hơn?",
+    options: [
+      "a. Phỏng vấn trực tiếp.",
+      "b. Khảo sát qua thư.",
+      "c. Khảo sát trực tuyến.",
+      "d. Phỏng vấn qua điện thoại."
+    ],
+    correctAnswer: "c. Khảo sát trực tuyến."
+  },
+  {
+    question: "Hành động để có được một thứ mong muốn bằng cách đưa lại cho bên kia một thứ khác được gọi là _____",
+    options: [
+      "a. chào bán",
+      "b. trao đổi",
+      "c. biếu tặng",
+      "d. định giá"
+    ],
+    correctAnswer: "b. trao đổi"
+  },
+  {
+    question: "Theo quan điểm của marketing, thị trường là",
+    options: [
+      "a. Sự kết hợp của nhà sản xuất, nhà bán sỉ, nhà bán lẻ",
+      "b. Những người bán đối với một loại sản phẩm",
+      "c. Một địa điểm hợp lý để có thể trao đổi",
+      "d. Các nhóm người sẵn lòng và có khả năng tham gia vào trao đổi"
+    ],
+    correctAnswer: "d. Các nhóm người sẵn lòng và có khả năng tham gia vào trao đổi"
+  },
+  {
+    question: "Nguồn thông tin bên ngoài cung cấp thông tin marketing cho công ty bao gồm:",
+    options: [
+      "a. Các nhân viên hiện tại và nhân viên cũ của đối thủ cạnh tranh",
+      "b. Tất cả các trả lời còn lại đều đúng.",
+      "c. Cổ đông của các đối thủ cạnh tranh",
+      "d. Các nhà trung gian"
+    ],
+    correctAnswer: "b. Tất cả các trả lời còn lại đều đúng."
+  },
+  {
+    question: "Một siêu thị lắp đặt camera để kiểm soát an ninh, đồng thời cũng để nghiên cứu hành vi mua sắm của khách hàng trong siêu thị, từ đó điều chỉnh về cách bố trí hàng hóa trên giá kệ bày hàng. Trong nghiên cứu thị trường, đây là phương pháp …",
+    options: [
+      "a. nghiên cứu thực nghiệm.",
+      "b. nghiên cứu định tính.",
+      "c. quan sát.",
+      "d. phỏng vấn sâu."
+    ],
+    correctAnswer: "c. quan sát."
   }
-
 ];
-
